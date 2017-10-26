@@ -1,16 +1,10 @@
 body {
-<<<<<<< HEAD
-    background-color: #fff55a;
-}
-p {
-    font-weight:bold;
-=======
+
     background: #ccc;
     font-family: helvetica, arial, serif;
     font-size: 15px;
     text-transform: uppercase;
     text-align: center;
->>>>>>> Use_of_Alternate_Stylesheet
 }
 ul {
     list-style-type: none;
@@ -36,8 +30,4 @@ li a {
 
 li a:hover {
     background-color: #111;
-}
-h1 {
-    color:blue;
-    font-weight:bold;
 }
